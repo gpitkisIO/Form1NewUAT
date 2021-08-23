@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [Form1User]
+    WITH PASSWORD = N'kxsvzrh$goh:pfQcdclb=dtomsFT7_&#$!~<xZ+rmD~~pvko', SID = 0xB73CB42956768F41B523CDC3020E7209, DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+
